@@ -11,8 +11,8 @@
 
 ## Personal Information
 
-Portfolio: [Click Here](https://thejackxbl.wordpress.com)
-itch.io page: [Click Here](https://thejackxbl.itch.io)
+* Portfolio: [Click Here](https://thejackxbl.wordpress.com) 
+* itch.io page: [Click Here](https://thejackxbl.itch.io)
 
 <!--
 **TheJackXBL/TheJackXBL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
