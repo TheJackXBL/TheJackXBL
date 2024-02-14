@@ -11,7 +11,8 @@
 
 ## Personal Information
 
-* ### Portfolio / Website: [Click Here](https://thejackxbl.wordpress.com) 
+* ### Portfolio / Website: [Click Here](https://thejackxbl.wordpress.com)
+* ### LinkedIn page: [Click Here](https://www.linkedin.com/in/jack-wilson-dev/)
 * ### itch.io page: [Click Here](https://thejackxbl.itch.io)
 
 <!--
