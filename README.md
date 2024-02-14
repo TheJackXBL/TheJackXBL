@@ -5,7 +5,7 @@
 * Looking for a full-time job in the games industry
 
 ### Education
-* 🎓 Bachelor's Degree: [BSc(Hons)Games Computing], University of Lincoln
+* 🎓 Bachelor's Degree: BSc(Hons)Games Computing, University of Lincoln
 
 🔭 Currently working on a full release of [Scrambled Eggs](https://thejackxbl.itch.io/scrambled-eggs), created in the GMTK Game Jam 2023 as part of a team. - [Github Page](https://github.com/JakeHornerMan/GMTKGameJam2023)
 
