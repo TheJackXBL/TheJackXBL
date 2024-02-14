@@ -1,7 +1,7 @@
 # 🕹️ Jack Wilson
 
 ### About Me
-* Recently graduated from the university of Lincoln
+* Recently graduated from the University of Lincoln
 * Looking for a full-time job in the games industry
 
 ### Education
