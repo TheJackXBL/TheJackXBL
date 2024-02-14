@@ -1,4 +1,4 @@
-# 📖 Jack Wilson
+# 🕹️ Jack Wilson
 
 ### About Me
 * Recently graduated from the university of Lincoln
