@@ -11,7 +11,7 @@
 
 ## Personal Information
 
-* Portfolio: [Click Here](https://thejackxbl.wordpress.com) 
+* Portfolio / Website: [Click Here](https://thejackxbl.wordpress.com) 
 * itch.io page: [Click Here](https://thejackxbl.itch.io)
 
 <!--
